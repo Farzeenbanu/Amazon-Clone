@@ -17,11 +17,11 @@ This project is an attempt to recreate the Amazon website interface. It includes
 ## Usage
 To view the webpage, simply open the HTML file in a web browser.
 
-## Screenshots
-[Add screenshots or images of your project here]
+## Images
+[some images for creating the amazon website.]
 
 ## Acknowledgements
 This project was inspired by the Amazon website.
 
 ## License
-[Add license information here]
+[Its for a practice purpose]
